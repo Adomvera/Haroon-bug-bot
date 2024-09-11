@@ -10,13 +10,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263788891104"
+global.ownernomer = "233591856630"
 global.ownername = "HARIXBUG"
 global.ytname = "YT: HARIXBUG"
 global.socialm = "GitHub: Haroon-Bog-Bot"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '263788891104'  //creator number
+global.ownernumber = '233591856630'  //creator number
 global.ownername = 'HARIXBUG' //owner name
 global.botname = '🐦 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
@@ -41,7 +41,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti212 = true //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
